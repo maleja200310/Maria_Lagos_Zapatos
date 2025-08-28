@@ -6,6 +6,7 @@ Clientes cliente = new Clientes();
 
 cliente.Id = 1;
 cliente.Nombre = "Pepito";
+cliente.Telefono = 123;
 
 
 Console.WriteLine(cliente.Id);
