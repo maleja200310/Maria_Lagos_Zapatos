@@ -6,6 +6,7 @@ Clientes cliente = new Clientes();
 
 cliente.Id = 1;
 cliente.Nombre = "Pepito";
+zapato.Talla = 6.5m;
 
 
 Console.WriteLine(cliente.Id);
