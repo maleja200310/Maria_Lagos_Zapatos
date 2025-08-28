@@ -7,6 +7,8 @@ Clientes cliente = new Clientes();
 cliente.Id = 1;
 cliente.Nombre = "Pepito";
 zapato.Talla = 6.5m;
+cliente.Telefono = 123;
+
 
 
 Console.WriteLine(cliente.Id);
